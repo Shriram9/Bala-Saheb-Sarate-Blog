@@ -1,0 +1,1801 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+        <title>Balasaheb Sarate personal page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="sarate" content="blog.com">
+
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+        <meta name="Balasaheb sarate" content="profile website" />
+        <meta name="keywords" content="profile, research,economics research , reservation researcher, socio an economics research,balasaheb sarate,researchers in aurangabad, research paers on social,economics" />
+
+        <link rel="shortcut icon" href="http://owwwlab.com/favicon.ico">
+
+        <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <[endif]-->
+
+        <!--CSS styles-->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">  
+        <link rel="stylesheet" href="css/perfect-scrollbar-0.4.5.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link id="theme-style" rel="stylesheet" href="css/styles/default.css">
+
+        
+        <!--/CSS styles-->
+        <!--Javascript files-->
+        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="js/TweenMax.min.js"></script>
+        <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+        
+        <script type="text/javascript" src="js/modernizr.custom.63321.js"></script>
+        <script type="text/javascript" src="js/jquery.dropdownit.js"></script>
+
+        <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="js/ScrollToPlugin.min.js"></script>
+
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+        <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+
+        <script type="text/javascript" src="js/masonry.min.js"></script>
+
+        <script type="text/javascript" src="js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+
+        <script type="text/javascript" src="js/magnific-popup.js"></script>
+        <script type="text/javascript" src="js/custom.js"></script>
+
+        <!--/Javascript files-->
+
+
+        <!--Custom Styles for demo only-->
+        <!--link rel="stylesheet" href="custom-style.css">
+        <script type="text/javascript" src="custom-style.js"></script>
+        <!--/Custom Styles-->
+
+
+
+    </head>
+    <body>
+
+        <div id="wrapper">
+            <a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+
+            <div id="sidebar">
+                <div id="main-nav">
+                    <div id="nav-container">
+                        <div id="profile" class="clearfix">
+                            <div class="portrate hidden-xs"></div>
+                            <div class="title">
+                                <h2>Balasaheb A. Sarate</h2>
+                                <h3>Reservation Researcher and Author</h3>
+                            </div>
+                            
+                        </div>
+                        <ul id="navigation">
+                            <li>
+                              <a href="#biography">
+                                <div class="icon icon-user"></div>
+                                <div class="text">About Me</div>
+                              </a>
+                            </li>  
+                           
+                            <li>
+                              <a href="#research">
+                                <div class="icon icon-book"></div>
+                                <div class="text">Research</div>
+                              </a>
+                            </li>
+				<li>
+				<a href="#Researchvision">
+                                <div class="icon icon-time"></div>
+                                <div class="text">Research Vision</div>
+                              </a>
+                            </li> 
+                            
+                            <li>
+                              <a href="#publications">
+                                <div class="icon icon-edit"></div>
+                                <div class="text">Publications</div>
+                              </a>
+                            </li>
+			
+                            <li>
+                              
+
+                            <li>
+                              <a href="#contact">
+                                  <div class="icon icon-calendar"></div>
+                                  <div class="text">Contact & Meet Me</div>
+                              </a>
+                            </li>
+
+                            
+                            </li>
+                        </ul>
+                    </div>        
+                </div>
+                
+                <div class="social-icons text-center">
+                    
+                        <a href="https://en-gb.facebook.com/people/Balasaheb-Asaram-Sarate/100010839483511"><i class="icon-facebook"></i></a>
+                        <!--li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-linkedin"></i></a></li-->
+                    
+                </div>    
+            </div>
+
+            <div id="main">
+            
+                <div id="biography" class="page home" data-pos="home">
+                    <div class="pageheader">
+                        <div class="headercontent">
+                            <div class="section-container">
+                                
+                                <div class="row">
+                                    <!--div class="col-sm-2 visible-sm"></div-->
+                                    <div class="col-sm-8 col-md-5">
+                                        <div class="biothumb">
+                                            <!--img alt="image" src="img/personal/06.jpg"  class="img-responsive"-->
+                                            <!--div class="overlay">
+                                                
+                                                <h1 class="">Jennifer Doe</h1>
+                                                <ul class="list-unstyled">
+                                                    <li>Graduate School of Business</li>
+                                                    <li>Knight Management Center</li>
+                                                    <li>Stanford University</li>
+                                                </ul>
+                                            </div--> 
+                                            
+                                               
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="clearfix visible-sm visible-xs"></div>
+                                    <div class="col-sm-12 col-md-12">
+                                        <h3 class="title">Bio</h3>
+                                        <p><strong>Name</strong>     :Mr. Balasaheb A. Sarate</br></br>
+      					<strong>Date of Birth</strong>  :   December 01, 1968    </br>
+</br>  
+					
+					<strong>Cell  Nos.</strong>  : 9422208266, 7030901074</br> 
+</br>       
+					<strong>Email</strong>     :   rvb.patil2016@gmail.com  </br>
+					
+</p>
+                                    </div>  
+                                    
+                                </div>
+                            </div>        
+                        </div>
+                    </div>
+
+      <div class="pagecontents">
+          <div class="section color-1">
+              <div class="section-container">
+                 <div class="row">
+                    <div class="col-md-5 col-md-offset-1">
+                       <div class="title text-center">
+                       <h3>Academic Positions</h3>
+                            </div>
+                        <ul class="ul-dates">
+                        
+                          <div class="dates">
+                             <span>1990</span>
+                                <span>2013</span>
+                          </div>
+                     <div class="content">
+                       <h4>Administrative Assistant</h4>
+                      <p><em>Life Insurance Corporation of India,</em>, Aurangabad Divisional Office, Aurangabad </p>
+                      </div>
+                   </li>
+                                            <li>
+                                                <div class="dates">
+                                                    <span>2002</span>
+                                                    <span>2011</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4> Director and Chairman </h4>
+                                                    <p><em>Aurangabad Divisional Life Insurance Employees Coop.Cr.Society Ltd</em>,LIC of India,Divisional Office,Aurangabad </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dates">
+                                                    <span>2002</span>
+                                                    <span>2007</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>Director</h4>
+                                                    <p><em>Maharashtra State Cooperative
+Societies’ Federation,</em>, Mumbai</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dates">
+                                                    <span>2006</span>
+                                                    <span>2009</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>CHB Lecturer</h4>
+                                                    <p><em>Hornyman College of Journalism</em>,Aurangabad</p>
+                                                </div>
+                                            </li></br>
+<li>
+                                                <div class="dates">
+                                                    <span>2016</span>
+                                                    <span>-</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>External Research Scholar</h4>
+                                                    <p><em>Hornyman College of Journalism</em>,Aurangabad</p>
+                                                </div>
+                                            </li></br>
+<li>
+                                                <div class="dates">
+                                                    <span>present</span>
+                                                    <span>-</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>Author</h4>
+                                                    <p><em>Author of five books on various subjects like Life Insurance, religion, politics, culture, Maratha reservation.</em></p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-5">
+                                        <div class="title text-center">
+                                            <h3>Education & Training</h3>
+                                        </div>
+                                        <ul class="ul-card">
+                                            <li>
+                                                <div class="dy">
+                                                    <span class="degree">Ph.D.</span>
+                                                    <span class="year">2017</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Ph.D. in  Developement Economics</p>
+                                                    <!--p class="where">Stanford University Graduate School of Business</p-->
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dy">
+                                                    <span class="degree">PET </span><span class="year">1993</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Economics</p>
+                                                    <!--p class="where">Boston University</p-->
+                                                </div>
+                                            </li></br>
+                                            <li>
+                                                <div class="dy">
+                                                    <span class="degree">M. A.</span><span class="year">1989</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Economics</p>
+                                                    <!--p class="where">University of California, Berkeley</p-->
+                                                </div>
+                                            </li>
+<li>
+                                                <div class="dy">
+                                                    <span class="degree">Master</span><span class="year">2000</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Master of Mass Communication & Journalism </p>
+                                                    <!--p class="where">University of California, Berkeley</p-->
+                                                </div>
+                                            </li>
+
+
+<li>
+                                                <div class="dy">
+                                                    <span class="degree">B. Com.</span><span class="year">1990</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Accountancy, Management & Economics </p>
+                                                    <!--p class="where">University of California, Berkeley</p-->
+                                                </div>
+                                            </li>
+<li>
+                                                <div class="dy">
+                                                    <span class="degree">Associate & Fellow</span><span class="year">2012</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Associate & Fellow (part) of Insurance Institute of India, Mumbai </p>
+                                                    <!--p class="where">University of California, Berkeley</p-->
+                                                </div>
+                                            </li>
+
+
+                                            
+                                        </ul>    
+                                </div>    
+                            </div>
+                                
+                        </div>
+
+                        <div class="section color-2">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="title text-center">
+                                            <h3>Honors, Awards and Grants</h3>
+                                        </div>
+                                        <ul class="timeline">
+                                                    
+                                            <li class="open">
+                                                <div class="date">2000</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Master of Mass Communication and Journalism</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            University Gold Medal and First prize in the final Examination  of Master of Mass Communication and Journalism
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="date">2004</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Articles on Social & Political issues</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            State level 2nd Prize of Daily Lokmat for Articles on Social & Political issues in December 2004. 
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="date">2002</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">As the Chairman</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            State level 1st Prize (for efficient and transparent Management) achieved for LIC Employees Coop. Cr. Society in 2002 which was organized by State Federation of Cooperative Societies, Mumbai.
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                            
+                    </div>
+                </div>
+</div>
+
+                <div id="research" class="page">
+                    <div class="pageheader">
+
+                        <div class="headercontent">
+
+                            <div class="section-container">
+                                <h2 class="title"><strong>Researchology</strong></h2>
+<p><h3>The Science of Social Research</h3></p>
+
+                            
+                                <div class="row">
+                                    <div class="col-md-8 ">
+                                        <p style="text-align:justify">Meaning of Research  
+Research refers to a search for knowledge. Generally the research is considered as an endeavor to arrive at answers to intellectual and practical problems through the application of scientific methods to the knowable universe, It the movement from the known to the unknown.   It is an endeavor to discover answers to problems (intellectual and practical) through the application of scientific method to the knowable universe. It is systematic enquiry seeking facts through objective verifiable methods in order to discover the relationship among them and to deduce from broad principles or laws. It is a method of critical thinking. It comprises defining and redefining problems, formulating hypothesis or suggested solutions, collecting organizing and evaluating data making deductions and conclusions and at last, carefully testing the conclusions to determine whether they fit the formulated hypothesis.</p> 
+<p  style="text-align:justify">Wilkinson and Bhandarkar : “ Research is a systematic attempt to push back the bounds of comprehension  ans seek beyond the horizons of our knowledge, some truth or some reality, shrouded in a stable way and consequently, to keep on extending as also  consolidating these horizons without end.” (WBM, p-16)
+ </p>
+                                        
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="subtitle text-center">
+                                            <h3>Interests</h3>
+                                        </div>
+                                        <ul class="ul-boxed list-unstyled">
+                                            <li>Economics </li>
+                                            <li>Social Research</li>
+                                            <li>Management</li>
+                                            <li>Life Insurance</li>
+                                            <li>Leadership Development</li>
+                                           
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                   
+                        <!--project section-->
+                        <div class="section color-2">
+                            <div class="section-container">
+                                <div class="title text-center">
+                                    <h3> Social Researchology As a  Discipline</h3>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <ul class="ul-withdetails">
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <p>Fundamentals of New Search
+</p>
+                                                            <!--p>Very short description of the project.</p-->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Animal Instincts of Searching</li> 
+						       <li>Search Attitude of Human beings</li>
+							<li>Attempts of Search and Re-search</li>
+							<li>Fundamental Search Instincts </li></br>
+							Problems (Needs, Difficulties and Hardships) 
+							Happiness (Pleasure, Busyness / Engagements and Creativity) and</br> 
+							Progress (Provisions, Accumulations, Extensions and Prosperity), 
+							<li>Four fold Human Personality and their Happiness</li>
+<li>Four ends of Human Life and their Achievements – Integral approach of complete life</li>
+<li>Four parts of Human life – Brahmacharya, Grihasthi, Vanprastha and Sanyas</li>
+<li>Collective Ownership of Means (Ishyavasyamidam Sarvam)</li>
+<li>Work as a Sacrifice, Consume Minimum (Yadnya  shishtashinah santo…)</li>
+<li>Saint Tukaram – Earch wealth by honest efforts, but consume as it does not belong to you only</li>
+</p>
+                                                    <p><li>Rahim – Sarovar pihit n pan</li>
+<li>Mahatma Phule – equality of all human beings</li>
+<li>Swami Vivekanand – Human life for Social cause</li>
+<li>M.Ghandhi – Trusteeship, Simple living, Minimum wants, only needs no greed</li>
+<li>Guest is God – in Maharashtra – system of dividing the Chapati / Roti into four parts – social security</li>
+<li>Public Education system – Gurukul – open to all, Modern Govt schools</li>
+<li>Public Health – Medicinal treatment as service – Medicine from natural trees and plants</li>  
+<li>Four factors of Production</li>
+<li>Means and Machines of Production</li>
+<li>Village system of Production and Livelihood – Interdependence of life – cooperation – security</li> 
+<li>Weekly Bazars in Village System – Exchange of kind for satisfying needs, No monetarism </li>
+<li>The cause of Collective Welfare, No personal motive in any public activity, Research is collective activity and not the individual </li>
+<li>Role of Social Sensitivity, Compassion in Problem Identification</li></ul>
+</p>
+                                                    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <p>Pure  Knowledge and Scientific Methods of Research of Pure Knowledge</>
+                                                            <!--p>Very short description of the project.</p-->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Knowledge - knowing phenomenon qualitatively and in general – Understanding & perception</li> 
+<li>Pure knowledge – Knowing phenomenon in particular, with quantitative terms, objectivity, verifiability, universality, practical experience of the theories.</li> 
+<li>Applied Knowledge – Science and Technology – Theories in practice – All theories are applied practically but difference is in exactness / objectivity, Political Science, Management Science, Economics are the applied disciplines of Social Science.</li>  
+<li>Science as a Pure Knowledge – Its System or Methodology for Research (Chemical Science, Physical Science, Mathematical Science, Astronomy, Biology, Metallurgy, Architecture, Automobile, Computer, Internet, Satellite etc. Science itself is a Methodology) </li>    
+<li>Scientific Methodology in Inventions and Discoveries of Pure Knowledge (Perceptions, Concepts, Meaning, Nature and Understanding)</li>   
+<li>Science itself is Methodology </li> 
+<li style="text-align:justify">Commonly adopted Stages / Steps in  Scientific Research Methodology – As these Sciences are universally applicable, there is no universe or population or audience. However, in Biological Sciences the Population / Universe / Audience affects on research conclusions </li> 
+<li>Importance and Feasibility of Scientific approach in Research</li> 
+<li>No effect of outside variables like social / human instincts </li> 
+<li>Practical and Universal Truth</li>  
+<li>Natural Laws of Pure knowledge </li> 
+<li>Characteristics and Criteria of Scientific Methodology in Research - Controlled Experiments in</li>  Laboratories, Objectivity, Impersonal, Free from Value / Idealism / Traditions / Emotions  
+<li>Limitations of Scientific Methodology in Research – Biology, Geology,</li>  
+
+</p>    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                          
+                                                            <p>Research in Social Sciences OR Socio - economic Research </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Meaning of Social Sciences – Nature of Social Sciences</li>
+<li>Social Sciences are related with practical Human Life in a Particular Society – Its impact</li>
+<li>Social Sciences are for Welfare of Particular Society</li>
+<li>Meaning and Purpose of Social Research </li>
+<li>Investigation for and of a particular Society – Population or Universe or Audience in Social 
+Research</li> 
+<li>Scope of Social Research</li> 
+<li>Importance of Social Research</li>
+<li>Nature of Social Research - Search and Expressions of Truth regarding Social phenomena (Social phenomena are ever changing and varied – History, Geography, Nationality, Stages of Development etc.)</li>
+<li>Traditional Perceptions about Socio - economic Research (Definition of Karl Pearson)</li>
+<li>Social Research  Methodology as a Science of Methods & Techniques</li>  
+<li>Are all Scientific Methods applicable for Social Research ? (Myths of Research Methodology in Social Sciences)</li>
+<li>Distinction between Scientific Methods and Social Research  (Problems of Logic, Rational, Validity, Experiments, Experience, Objectivity, Role of Social Values, Ideologies, Sensitivities, Policies, Strategies in Socio – economic Research, Human Problems, Human Presentations, Human Hypotheses, Human Design, Human Process of Data Collection, Human Analysis, Human Findings, Human Interpretations,  Human Conclusions),</li> 
+<li>Policies and Practices in Socio – economic Research (Practically Social Research is qualitative and Relative only)</li></ul>
+</p>
+                                                  
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                          
+                                                            <p>Social Researchology for Research in Social Sciences
+.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Myths of Research Methodology in Social Sciences </li>
+<li>Meaning of Social Researchology</li>
+<li>Characteristics of Social Researchology – Collective, Qualitative, Relative, Traditional customary, Ideological, Civilizational, Geographical – Change in Social life in a ‘ particular society’ seems to be obvious. But such changes are not fundamental, only some behavioral change takes place and not the way and thinking of whole life.</li>     
+<li>Importance of Social Researchology – Newness like a dawn every day - </li> 
+<li>Various Subjects and Issues of Social Research and their system of study</li>
+<li>Nature and Criteria of Defining the Social  Sciences, Socio – economic aspects of all the Social Disciplines,</li> 
+<li>Integrated approach of studying Social Sciences altogether</li> 
+<li>Interrelations of the Social Sciences,</li> 
+<li>Social Sciences are about a Certain Society (as a single Unit) which has similar History, Geography, <li>Ideologies, Inspirations, Ideals, Faiths, Hopes, Ambitions, Values, Traditions, Culture and Characteristics, Socio – economic Phenomena (not necessarily same for all the Societies on the earth) 
+Social Sciences are Positive, Physical and Natural ( Their subjects are Physical, Natural and Positive)
+<li>Limitations of Social Characteristics in Social Research.</li>
+<li>Comparison of Scientific Methods in Research of Pure Knowledge and Social Researchology (objectivity, Impersonal, Universality, Verifiability, controlled experiments Impersonality etc.),</li> 
+<li style="text-align:justify">The Social Truth - socio – economic Research is not free from attachments or ideals – e.g. In defense of Globalization (Dr. Jagdish Bhagavati) – the name itself indicates an attachment to the capitalist approach of free trade and economic liberalizations,  Why growth matters ? (Dr. Jadish BHagavati & Dr. Aravind Pangariaya) – shows their inclinations towards growth models of Developments. Keynsian Model means as per the Theory of J.M. Keynes – it shows the influence of thoughts J.M. Keynes – Then why can’t the Vedic Model, Kautilian Model, Indian Model of Ideal Culture? Indian School of Economics? </li></ul>
+
+</p>
+                                                    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                            <p>Theory of ‘Particular Society’
+.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Social Research is the study of Society and not of Books composed by some Individuals.</li>
+<li>The Role of History, Geography and Nationality in Socio – Economic Research</li> 
+<li style="text-align:justify">Concept of Population OR Universe OR Audience in Social Research -  ‘ Speak truth always’ is the Theory. It is good to say that it is a Universal principle. Is it really universally accepted ? Is it universally known ? Do the American and Europeans believe in this theory ? How can we know about it ?  Obviously, we have to investigate about it. Suppose, an investigation conducted in a city of U.S.A., collected the relevant data and conclusions drawn finally.</li> 
+For instance, the result of the Research was, “ 49 per cent population believe in this theory.  Can the Researcher claim that the 49 per cent population on the earth believe in this theory ? Obviously he cannot claim like that. Because before starting his investigation the Research Problem has to be defined. And before definition of the problem, the Researcher has to decide the Population or Universe of the Research.
+The collection of data has to be done on the basis of that Population or Universe only. For example, the Problem Statement is “ A study of International Trade.” Is it a complete statement ? No. Why ? Because, the Population or Universe is not mentioned ! If the statement completed with “ A study of International Trade between India and United States of America.”  Then the statement becomes meaningful. In the later statement there is Population or Universe as  ‘ India and U.S.A. 
+The Population or Universe or Audience in any Research is that part of the Research to which the Conclusions are applied. 
+when it is to be verified practically, first of all, we have to think of a certain society. Without confirm decision of this aspect, the research will have no meaning. If we undertake the investigation of the theory at any place or within any region of India;
+Elements, Aspects and Issues in Social Sciences or Behavioural Disciplines  i.e. Systems of Study, Socio – economic Research and Social Research. 
+The Research in Socio – economic issues is for Local Society, It is not Universally applicable, It has Place and Time bounds, e.g. Theories of Marshal, Malthus, J.B. Say, J.M. Keynes,  August Comte, Max Weber etc. 
+<li>The Theory of ‘Particular Society’ in Social Research – Meaning, Definitions, Assumptions</li>
+<li>Socio – economic Research is undertaken in connection with a certain Society (a Country or State or a group of States with similar History & Geography)</li>
+<li>Democracy in Research - Research of the People, by the People and For the People – It is a Democratic Process</li> 
+<li>Social Research is the activity of Society, by a Social Organ and for the Society</li>
+<li>Social Research is always a Public Activity, It is not an Individual phenomena</li> 
+<li>Social Research is always qualitative and Relative (Numerical data also not absolute and 
+objective)</li> 
+<li>The Curriculum in study of Social Science has to be Re - set on the ground of applicability</li>
+<li style="text-align:justify">The Scope and Limitations of Research Management in Social Sciences – It covers Whole life within the History , Geography and Nationality of the Society</li>  
+<li>Similarities in Process and Management of Research in all Social Sciences (Difference lies in  Identification of Research Problem, Purpose of Research, Sources of Data, Methods of Data Collection and Techniques of Data Analysis)</li></ul>
+ .</p>
+                                                    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                            <p>Economic Researchology </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Meaning of Economics as a Social Science : What is Economics ? </li>
+<li>Economics is the Science of livelihood, satisfaction, solutions and progress. </li> 
+<li>It is a Behavioral Science – depends on mindset, thinking and willingness </li>
+<li>It is System or discipline of studying the social phenomena of a particular society. </li> 
+<li style="text-align:justify">It is a Social Science and not the individual Science. What does it study ? It study human activities in a particular society. It studies human behavior in a particular society. It is a study of collective social phenomena. It does not relate to the study of any individual. It speaks about individual as an integral part of a particular society. That individual is studied as a representative of all human beings in a particular society. Therefore, the “particular society” is the fundamental background of economic study. That particular society is the target or audience or universe or population of the Economic study. Such a particular society may be an Industry, a Village / Town, a State, an Activity, a Corporation, an Institution, a Trading firm or any such entity or phenomena. These are studied as an integral unit representing their whole population or universe in a particular society. For example, a Village is chosen for study. The conclusions of the study will be applied for all the Villages in a particular society. If an Industry of a Business  is selected for study, the final conclusions of such study will be applied for all Industries in the group within the particular society. Similar will be the case of any Institution, Individual or Corporation. The study of a Unit or some units is undertaken for the sake of convenience and practical purposes of the Economists. In fact, the basic purposes or objectives of such study are collective only. Thus, Economics is related with the study of Collective Social phenomena only. It means Economics is a Collective Science of a particular society. </li>
+<li>Economics is a Human Science  </li>
+<li>Human Personality and  Human ends – Relevance in Economics and their achievements </li>
+<li>Impact of Social aspects on Economic Transactions  </li>
+<li>Role of History, Geography, Nationality, Traditions, Culture, Politics, Policies in Economics </li>
+<li>Economic Science is Positive, Physical and Natural (subjects are Physical, Natural and Positive) </li>
+<li>Economic Researchology (Meaning, Nature, Purpose, Characteristics, Importance) </li>
+<li>Elements (Stages / Steps) of Economic Research </li>
+<li>Subjects in Economics </li>
+<li>Research in Economics – Collective Welfare, Corrective Behavior, Complement Life </li></ul> 
+
+</p>
+                                                    
+                                                </div>
+                                            </li>
+
+<li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                            <p>Research in Entrepreneurship Development
+
+.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Meaning, Scope and Prospects of Entrepreneurship </li>
+<li>The Role of Entrepreneurship in Reconstruction of Social Life</li> 
+<li>The growth, developments, Monetarism, Self Centered global citizen</li> 
+<li>Entrepreneurship for shaping a new world of Universally Integrated and interdependent </li>  
+<li>Trade and Commerce – Global challenges of loosing original trade practices </li>
+<li>Role of Trade and Commerce in spreading values and culture from one place to other</li>
+<li>Research in Management  Science – Understand people as they are by origin to manage them</li>
+<li>Management must be of the Human, by the Human, for the Human – not money but the human life.</li>  
+<li>Research in Entrepreneurship Development – Innovative, Creative,</li></ul> 
+
+ .</p>
+                                                    
+                                                </div>
+                                            </li>
+                                            
+<li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>Types and Ways of Socio-economic Research</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Types of  Research based on Nature of <li>Subject and Purpose of Research</li>
+<li>Fundamental Research – Search of Natural Laws</li>
+<li>Research of Social Theories and Principles</li>
+<li>Analytical, Elaborative and Exploratory (in case of problems) Research</li>
+<li>Research of Causes and Effects in Social Phenomena</li>
+<li>Informative Research (Addressing, Defining in case of reporting, presenting – Biography, Narrations, Descriptions of facts ) </li>
+<li>Research of Government Policies & Schemes of Subsidies, Developments etc. </li>
+<li>Ways of Research based on  Means, Methods and Techniques of Analysis </li>
+<li>Conclusions and Descriptions – Deductive Research, Inductive Research
+Case Study Methods, 
+Survey Methods</li>  
+<li>Personal Imaginations, Observations, Experience, Understandings, Perceptions, Intuitions, Intellectual & Rational Logic, Probability, Creative Thinking  & Visualizations, Discussions, Debates, Opinions, Visits, Trials</li>
+<li>Study of Existing Knowledge, Literary Review, 
+Sampling, Interviews, Schedules, Questionnaires.</li>
+<li>Social Rsearchology and  Management in Economic Research
+Meaning, Nature and Concept of Management, Interdependence of Researchology and Management, What is True, Practical and Relevant for Socio – economic Research ?, Principles of Management, Management as Human Skills and Competencies, Suitability and Relevance of Management in Socio – economic Research.</li>  </ul> 
+
+ .</p>
+                                                    
+                                                </div>
+                                            </li>
+<div class="title text-center">
+                                    <h3> Elements Of Economic Researchology
+</h3>
+                                </div>
+<li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>Research Design</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p>Thinking, visualization and Planning of Research, 
+Theoretical preparation of Research, Blue print of Research, 
+Structure of Research (Stages / Steps) of Research and their meaning, purpose and importance
+<ul><li>
+ Population or Universe or Audience of Research</li>
+<li> Problem of Research :  Introduction of the Problem, Defining the Problem, Justifying the    Problem, Characteristics of the Research Problem, Importance of the Problem in Social Research, Statement of Research Problem</li>
+<li>  Objectives of Research</li>
+<li> Scope, Jurisdiction and Limitations of Research</li>
+<li>  Hypotheses - Propositions, Presumptions</li>
+<li>Means, Methods and Techniques of Data Collection</li>
+<li> Personal Experience, Observations and Knowledge</li>
+Continuous thinking of Research, Imaginations, Creative Visualizations, Trials,              Curiosity, Discussions, Arguments, Observations, Perceptions, Inferences etc.</li> 
+<li>Literary Review of Published Knowledge.</li> 
+<li> Information through Internet site</li> 
+<li> Formal Interviews</li>
+<li> Survey- Meaning, Purpose and Importance), 
+          Types of Surveys  
+          Population /  Audience, Universe, Census Method – Meaning and Nature</li> 
+ </ul> 
+
+ .</p>
+                                                    
+                                                </div>
+                                            </li>
+<li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>Management of Collected Data </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p>Systematic Arrangement of Data, Editing and Organization and No manipulation </p> 
+<p>Sorting, Coding and Categorization</p>
+<p> Measurements and Scaling  </p>
+<p>Tabulation- Scheduling, Graphical Presentation</p>
+
+ 
+                                                    
+                                                </div>
+                                            </li>
+<li>
+						<div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                        <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>  Analysis of Data  </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                     <p>Numerical and Statistical ability in data analysis</p> 
+<p>Averages, Mean, Mode, Median, Ratio, Proportion, Percentage, Distribution of Characteristics of variable, Standard Deviations, Correlations, Regressions Probability,  Index Numbers, Variance (ANOVA, COANOVA), Objectivity  </p>
+<ul><li> Interpretations and Inferences</li>
+<li>Testing of Hypotheses</li> 
+<li> Findings and Final Conclusions</li>
+ <li>New Theories and Application of Research</li> 
+ <li>Final Report Writing – Presentation the Research</li></ul>
+
+
+ 
+                                                    
+                                                </div>
+                                            </li>
+                                            
+                                            
+<div class="title text-center">
+                                    <h3> Practicals In Economic Research 
+
+</h3>
+                                </div>
+<li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>Ants and Honeybees – Ideal Model of  Economic Researcher 
+</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p  style="text-align:justify">Ants - Collection of facts with complete involvement, Continuous efforts of collection by a smallest particles
+Honey Bee – Collects honey by single drop at a time and makes  stock of pure honey (Features – Collection smallest but on pure drops, It is the only way its survival, It is not used by itself)
+When it is taken out by Human being, the honey bee does not stop her search, it starts with new drops 
+Economic Research is a life Mission of Collecting smallest facts and seeking truths for making our Society and the world happy and prosperous
+
+
+ .</p>
+                                                    
+                                                </div>
+                                            </li>
+<li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>Some examples of Practical  </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p  style="text-align:justify">Controlled Experiments not possible but practical is possible
+Research Attitude and Actions – a continuous process
+Research as a character – facing problems, solving problems with alternative solutions
+Investigative and analytical mind, social sensitivity – search of solutions to social problems, Happiness / Pleasure, Problems (Satisfaction, End of Hardships) and Progress, 
+Experience, Observation, Instinct, Analysis, Inference, Search for Alternatives, Conclusions, Decisions, Actions 
+
+                                                    
+                                                </div>
+                                            </li>
+<li>
+						<div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                        <img alt="image" src="img/projects/p1.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            
+                                                          <p>  Research Problem – a Habit of searching  
+  </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                     <p  style="text-align:justify">Research is only because Problems, Problems are Pre- conditions of Research
+Attentive, analytical mind always experience the problems
+Compassion and sympathy creates curiosity of knowing the facts 
+Thinking and Investigation of cause and effect is a regular and continuous activity of human being like a habit   
+<ul><li>Economic Research - the way of Development</li> 
+<li>Ethics in Economic Research  </li></ul>
+
+                                                    
+                                                </div>
+                                            </li>
+                                            
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>    
+                    </div>
+               
+<!--end project section-->
+
+<!--research vision section-->
+<div id="Researchvision" class="page">
+                    <div class="pageheader">
+
+                        <div class="headercontent">
+
+                            <div class="section-container">
+                                <h2 class="title"><strong>VISION 2020
+</strong></h2>
+<p><h3>Dynamics of a Research Centre in Higher Education</h3></p>
+
+                            
+                                <div class="row">
+                                    <div class="col-md-12 ">
+                                        <p style="text-align:justify">History of human development is the history of research only. Research and communication are key elements of the progress of social life. Civilization, culture, systems (social, political, economic etc.), way of life, standard of life and so on are the products of research.  
+ <p style="text-align:justify">Research starts with a ‘problem’. To realize the unseen or overlooked problem, is the key of a successful research. The problem in research refers to the cause of research. 
+The research problem originates from difficulties, hardships, needs, pleasure, happiness, ambition, achievement, success, fulfillment, progress, development and excellence. In fact, all these instincts and inspirations of research are the sub-elements of ‘satisfaction of needs, end of hardships, progress, pleasure and happiness’ of human life.</p>    
+ <p style="text-align:justify">Research is a non-stop intellectual activity driven by analytical mind. Research is a continuous process of experience, observations, knowledge, enlightenment, analysis, inference, search of alternatives, conclusions, decisions and actions.<p> 
+ <p style="text-align:justify">Research is the combined gross effect of approach and attitude towards investigation of problems and inquiry of innovative solutions. Conventionally, research is defined as the process of acquiring knowledge through a systematic inquiry of a phenomenon. But, obtaining knowledge is not the end of the research. In reality, application of knowledge for solving further problems is also the part of research. Obtaining knowledge, application of knowledge and getting results are steps of research.  
+Researcher is a rebel. Research starts with rebelling i.e. a new way of thinking. Out of way thinking, raising questions and visualizing problems are the fundamental characters of research. 
+Research, thy name is creativity and innovation! Research is the third eye which sees the unseen and it is the sixth sense which senses the problems,  shortfalls  and  drawbacks as well as the dormant potentials and strengths. Thus, finding a problem and making it as a subject of investigation is the foundation of whole research process and practice.</p> 
+ <p style="text-align:justify">Slaves are slaves because they do not realize that they are made slaves to perpetuate their exploitation. Slavery is, in fact, a state of mind. Mind of the slaves become static and they are accustomed with the situation. They do not fill and think that there something wrong with them. Therefore, Dr. B. R. Ambedkar says, “make the slaves aware of their slavery; they will certainly come forward to get rid of it!” </p> 
+ <p style="text-align:justify">In the same way, in the normal situation, the general people do not think and realize that there is a problem in their institution. In this situation, the research becomes relevant. Research is also a state of mind. It is guided and channelized by the perception, paradigm, approach and attitude of the researcher. The prime role of research is to point out the problems and raise the relevant questions on the present normal situation. Once the problem comes in focus, it is investigated further to inquire in to the causes and effects of the related phenomenon and ultimately leads to development. 
+
+ </p></div>
+                        <div class="section color-2">
+                            <div class="section-container">
+                                <div class="title text-center">
+                                    
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <ul class="ul-withdetails">
+                                            <li>
+                                                <div class="row" >
+                                                   
+                                                    <div class="col-sm-12 col-md-12" style=background-color:#ababab;">
+                                                        <div class="meta">
+                                                            <p>Ingredients Of Research In An Institution Of Higher Education
+
+                                                            <!--p>Very short description of the project.</p-->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li><strong>Students:</strong> Research is the subject of study for students as a part of their curriculum. However, at this also, the orientation should be developed towards the research. For this purpose, a separate subject of research should be made as compulsory in the prescribed curricula.  
+</li> 
+						       <li><strong>Faculties:</strong>  The faculties are related with teaching of research like any other subjects. In fact, the research should be taught and inculcated as a habit at all the stages of higher education. 
+</li>
+							<li><strong>Authors of text books:</strong> A stereotype examination oriented literature like other text books is written by many authors. Actually, research is very dynamic and ever changing subject. The authors should take note of this characteristic while writing text books of research. 
+</li>
+							<li><strong>Applied Research:</strong>  The Research should be developed as a problem solving mechanism at all the stages. 
+ </li></br>
+							
+							<li><strong>Researchology:</strong> Researchology is the science of research in social sciences and humanities.  As a part of the discipline, a continuous system research should be developed to create new knowledge, theories and models. 
+</li>
+<li><strong>Research Projects:</strong> Funded and non-funded research projects should be undertaken by the students and faculties to develop research and create authentic sources of data. 
+</li>
+<li><strong>Periodical Special Issues:</strong> The issues covering contemporary topics should be published periodically to contribute thorough knowledge of the subjects.  </li>
+<li><strong>Building Character of Research:</strong> Habits should be inculcated in order to build the research as character of all the faculties and students in the institution. 
+</li>
+</ul>
+</p>
+                                                    
+                                                </div>
+                                            </li>
+
+
+                                         <li>
+                                                <div class="row">
+                                                    
+                                                    <div class="col-sm-12 col-md-12" style=background-color:#ababab;">
+                                                        <div class="meta">
+                                                            <p>  Mission Statement Of Research Centre
+</p>
+                                                            <!--p>Very short description of the project.</p-->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li><strong>Conviction:</strong> Research is a way of life and a tool of institutional development. Researcher ought to be a rebel who raises questions, thinks differently and visualizes the drawbacks and strengths. Research starts with relevant problems, reaches to innovative solutions and results in application of knowledge.</li> </ul>
+
+</p>    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    
+                                                    <div class="col-sm-12 col-md-12" style=background-color:#ababab;>
+                                                        <div class="meta">
+                                                          
+                                                            <p>Vision For A Research Centre
+</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li><strong>Research for the sake of research</strong> 
+<p>Creating research environment, approach and attitude</p>
+<p>Creating first quality knowledge, theories and models </p>
+<p>Developing research habits and motivating research activities </p>
+<p>Making research a practice – way of life </p>
+</li>
+<li><strong>Application of research</strong>
+<p>Searching and visualizing the unseen problems and shortfalls </br>
+Providing way outs and alternative solutions</br> 
+Enhancing creativity and innovation</br>
+Leadership of the educational world and intelligentsia</br> 
+Showing the path of research to the world</br> 
+Make the surroundings to follow your way </p>
+<p>Quantitative and qualitative improvements in resources and strengths </p>
+<p>Overcoming negativities and weaknesses </p>
+<p>Grabbing opportunities and curbing threats</p>
+<p>Preparation of short-term and long term action plan and time schedule</p>
+<p>Yearly action plan and periodical time schedules of the research unit </p>
+<p>Preparation of  vision document of Institutional Excellence</p>
+<p>Preparation of  vision document of all branches or units - collaboration, interaction with the respective branches or units</p> 
+<p>Yearly action plan and periodical time schedules for all faculties and units</p>
+<p>Yearly publication of special devoted to some socio-economic topics</p>  
+<p>Subject wise or Discipline wise annual appraisal</p>
+<p>Annual appraisal of every individual Faculty</p>
+<p>Annual appraisal of every individual student</p> 
+<p>Annual appraisal of administrative heads</p>
+<p>Unit wise annual appraisal</p> 
+<p>Annual appraisal of Institution as a whole</p>
+<p>Organization of periodical short duration special training courses of</p>
+<p>Faculty development course</p>
+Management and entrepreneurship development course</br>
+Leadership development course – academic, professional, industrial</br>
+Research development course for students and Ph. D. aspirants</br> 
+Research projects – funded and non-funded – Market research, social research, Government sponsored research</br>
+</li>
+</ul>
+</p>
+                                                  
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    
+                                                    <div class="col-sm-12 col-md-12 style=background-color:#ababab;">
+                                                        <div class="meta">
+                                                          
+                                                            <p>World Class Excellence Of An Institution In Higher Education
+</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li><strong>In depth Research Report on 
+Dynamics of a world class Institution in Higher Education</strong>
+<p>SWOT analysis of the institution i.e. analysis of Strengths, Weaknesses, Opportunities and Threats.</p>
+<p>Comparative analysis with top 10 Co-institutions in the country and abroad</p>
+<p>Comparative analysis with top 10 Universities in the country and abroad </p>
+ </li>
+<li><strong>The structure and assignments</strong>
+Four elements: 1. Top management, 2. Faculties, 3. Administration, 4. Students</br>
+<p>World class policy makers, management and top leadership</p> 
+<p>Universal vision and ground realities</p>
+<p>Holistic and integrated policy of institutional development</p>
+<p>Provision of resources, funds, premises and infrastructure</p>
+<p>Control and leadership</p>
+<p>Educational environment, easy approach and communication</p> 
+<p>Selection of middle management and faculties</p> 
+<p>Empowerment – delegation of authority and responsibilities</p>
+<p>World class students</p>
+<p>Proper selection criteria and procedure</p>
+<p><strong>Education environment</strong> – development of visionaries 
+Inculcation of dreams and goals of life and new horizons 
+‘Conqueror of the world’ attitude – cultivation of ambitions</p> 
+Self-enlightenment, application of knowledge, experience, expertise </p> 
+<p>Exposure and recognition to students</p>
+<p>Academic - Curricular progress, intelligence development</p>
+<p>Analysis and interpretation – research papers – preparation, presentation, publication</p>
+<p>Creative writing and communication skills – authorship of texts</p>
+<p>Arguments, group discussions and public speaking</p>
+ Industrial interactions, understanding environment, visits, reports, projects, internships
+Commerce and trade – study of market, exchange, consumer behavior</p>
+<p>Research projects – as a part of curricula, funded research projects
+Arts, culture and sports – participation, social behavior, friendship</p>
+<p>Personality – development of effective habits and building of character</p>
+<p>Faculties – development of goals, enhancement of qualities and self-appraisal</p>
+<p>Faculty is the creator of role models and lighthouse of guidence</p>
+Creative learning and effective imparting of knowledge
+Non-stop learning through experience, observations, analysis, interpretations and application of knowledge – self-enlightenment </p>
+<p>Adaption of change – making situation favourable </p>
+<p>Creation of first quality knowledge, presentation and performance</p> 
+<p>Sharing vision – interactions with co-faculties and students</p>
+<p>Continuous research – performance reporting, research papers</p>
+<p>Undertaking research projects -  funded and non-funded</p>
+Exposure at national and international platforms </p>
+<p>Conviction – integrity, approach, consistency and character
+Assimilation of personal interest with institutional interest</p>
+Rewards of efficient results and records of achievements 
+<p>Administration – institutional sensitivity, accountability, accessibility
+Discipline, duties and conduct</p>
+<p>Rewards and records – performance and non-performance
+Enabling work environment</p> 
+<p>Institutional branding – complete website, easy access of information 
+Periodical news about institutional achievements
+Celebration of occasional events and their publicity 
+Branding through most successful alumni  
+Contribution towards social causes and constructive projects</p>
+
+</li>
+</ul>
+
+</p>
+                                                    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    
+                                                    <div class="col-sm-12 col-md-12" style=background-color:#ababab;">
+                                                        <div class="meta">
+                                                            
+                                                            <p>World Class Model Of Institution, Faculties And Students
+</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>No compromise on quality, commitment and compliance
+</li>
+<li>TEducation is the only goal of directors, faculties, administration and students
+</li> 
+<li> Time tested academics, comprehensive curricula, innovation and research </li>
+
+<li>Learning approach and attitude – both students and faculties 
+</li>
+<li>Sufficiency and efficiency of means and resources – infrastructure, premises, environment, place of education, easy to approach and means of transport 
+</li>
+<li>Health and hygiene – hostel, boarding, sports – no worry other than education
+</li> 
+<li>Worldwide exposure and recognition of extraordinary success 
+</li>
+<li>Rewards and records of achievements 
+</li> 
+<li>Strong foundation of career and character
+</li> 
+<li>Advantages of institutional branding 
+</li>
+<li Recognition of institutional belongingness – affinity with the institution 
+</li>  
+</ul>
+ </p>
+                                                    
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    
+                                                    <div class="col-sm-12 col-md-12" style=background-color:#ababab;">
+                                                        <div class="meta">
+                                                            
+                                                            <p>Making Research Effective
+
+ </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><ul><li>Universal sensitivity
+</li>
+<li>Multidisciplinary approach 
+ </li> 
+<li>Research Environment
+</li>
+<li>Research approach and attitude
+ </li> 
+<li>Annual Plan and time schedule for implementation  </li>
+<li>Effective communication system
+ </li>
+<li>Records and rewards of achievement  </li>
+<li>Controls and corrections
+</li>
+
+</ul> 
+
+</p>
+                                                    
+                                                </div>
+                                            </li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>    
+                    </div>
+               
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+</div><!--research end-->
+
+<!--Publication section-->
+
+                <div id="publications" class="page">
+                    <div class="page-container">
+                        <div class="pageheader">
+                            <div class="headercontent">
+                                <div class="section-container">
+                                    
+                                    <h2 class="title">Selected Publications</h2>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p style="text-align:justify">Research is only because Problems, Problems are Pre- conditions of Research
+Attentive, analytical mind always experience the problems
+Compassion and sympathy creates curiosity of knowing the facts.</p> 
+<p>Thinking and Investigation of cause and effect is a regular and continuous activity of human being like a habit   </p>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="pagecontents">
+                            
+                            <div class="section color-1" id="filters">
+                                <div class="section-container">
+                                    <div class="row">
+                                        
+                                        <div class="col-md-3">
+                                            <h3>Filter by type:</h3>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <select id="cd-dropdown" name="cd-dropdown" class="cd-select">
+                                                <option class="filter" value="all" selected>All Papers</option>
+                                                <option class="filter" value="Rpaper">International Conferences 
+</option>
+                                                <option class="filter" value="cpaper">National Conferences
+</option>
+                                                <option class="filter" value="bookchapter">University Level Conferences </option>
+                                                <!--option class="filter" value="book">Books</option-->
+                                                <!-- <option class="filter" value="report">Reports</option>
+                                                <option class="filter" value="tpaper">Technical Papers</option> -->
+                                            </select>
+                                        </div>
+                                        
+                                        <div class="col-md-3" id="sort">
+                                            <span>Sort by year:</span>
+                                            <div class="btn-group pull-right"> 
+
+                                                <button type="button" data-sort="data-year" data-order="desc" class="sort btn btn-default"><i class="icon-sort-by-order"></i></button>
+                                                <button type="button" data-sort="data-year" data-order="asc" class="sort btn btn-default"><i class="icon-sort-by-order-alt"></i></button>
+                                            </div>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="section color-2" id="pub-grid">
+                                <div class="section-container">
+                                    
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="pitems">
+                                                <!--international papers 1-->
+                                                <div class="item mix Rpaper" data-year="2015">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Dynamic Entrepreneurship Strategies and the challenge of Declining Indian Economy</h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite"><span class="label label-warning">Research paper</span> International Journal of Management and Economics ((ISSN NO- 2231-4687/2015)</div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div-->
+                                                </div>
+
+			<!--international papers 2-->
+                                                <div class="item mix Rpaper" data-year="2015">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                           Entrepreneurship Development through Socio-cultural Thoughts - A study of Human Personality, Character and Aims of Life
+                                                        </h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite">
+                                                            <span class="label label-primary">Research paper</span>  International Conference (2015) organized by Department of Commerce and Management, Shivaji University, Kolhapur.  
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <!--p  style="text-align:justify">Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div-->
+                                                </div>
+					<!--international papers 3-->
+                                                <div class="item mix Rpaper" data-year="2013">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Demographic Structure of India – Dividend or Liability: Poverty and Unemployment are the Real Determinants</h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite"><span class="label label-success">Research paper</span> International Conference (2015) organized by Department of Commerce and Management, Shivaji University, Kolhapur. 
+</div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div-->
+                                                </div>
+			<!--international papers 4-->		
+                                                <div class="item mix Rpaper" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            Examination of Maslow’s Need Hierarchy theory of Motivation with Reference to Indian Theories of Human Personality and Aims of Life
+                                                        </h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite">
+                                                            <span class="label label-info">Research paper</span> International Journal Business, Management and Social Sciences (ISSN: 2249 – 7463) Vol. IV, Issue 8(III), April 2015 published by Choice College of Arts and Commerce, Pune.
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p  style="text-align:justify">Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <ul>
+                                                           
+                                                        </ul>
+                                                        
+                                                    </div-->
+                                                </div>
+					<!--international papers 5-->
+                                                <div class="item mix Rpaper" data-year="2012">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">An Evaluation of the Role of Planning Commission in minimizing Climate Change Impact on Agriculture and Rural Development  in India” in the International Conference on”</h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite"><span class="label label-success">Research Paper</span> International Conference on “ Climate Change and Rural Development” organized by Department of Economics, Dr. B. A. Marathwada University, Aurangabad in January  2016.
+</div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div-->
+                                                </div>
+						<!--international papers 6-->
+                                                <div class="item mix Rpaper" data-year="2012">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Political Decision Making and Administrative Mind Set are the Culprits of Poverty in India” in the International Seminar on “21st Century World – Present Scenario and Challenges</h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite"><span class="label label-warning">Research Papers</span> organized by Department of Ajintha Education Society’s Pt. Jawaharlal Nehru College, Aurangabad in February  2016..
+</div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div-->
+                                                </div>
+
+					<!--national papers 1-->
+                                                <div class="item mix cpaper" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Myth of GDP Growth Rate and Increasing Unemployment in India
+                                                        </h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite">
+                                                            <span class="label label-primary">Research npaper</span> published (ISBN-978-81-926851-7-5/2015) as main author, in the National Conference (2015) on Management organized by Ramesh Warpudkar ACS College, Sonpeth, Dist- Parbhani.
+
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div-->
+                                                </div>
+					<!--national papers 2-->
+                                                <div class="item mix cpaper" data-year="2011">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Managing Human Excellence through Indian Perspective: Concept of Complete Human Life and Theories of Inspirations</h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite"><span class="label label-success">Research Paper</span> published (ISBN No. 978-15088-275-80/ 2015) in National Conference -NCONRIT – 2015 organized by RIT Department of Management Studies, Islampur, Dist- Sangli. </div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div-->
+                                                </div>
+						<!--university papers 1-->
+                                                <div class="item mix bookchapter" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            Declining Growth, Situation of Droughts and Ignorance of Farmers: the Need of Sustainable, Innovative & Professional Entrepreneurship in Agriculture
+                                                        </h4>
+                                                        <!--div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div-->
+                                                        <div class="pubcite">
+                                                            <span class="label label-info">Research paper</span> published  (ISBN No: 978-93-82234-13-5) by Vasantrao Naik Adhyasan Kendra” organized by Dr. Babasaheb Ambedkar Marathwada University, Aurangabad.
+
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div-->
+                                                </div>
+				<!--university papers 2-->
+                                                <div class="item mix bookchapter" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Research Paper</span> organized by Department of Economics, Shri. Dnyaneshwar Mahavidyalaya, Newasa, Dist – Ahmednagar in January 2016.
+</div>
+                                                        
+                                                    </div>
+                                                    <!--div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div-->
+                                                </div>
+                                                
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                
+	
+
+                
+                
+<!--contact start here-->
+                <div id="contact" class="page">
+                    <div class="pageheader">
+                        <div class="headercontent">
+                            <div class="section-container">
+                                
+                                <h2 class="title">Contact & Meet Me</h2>
+                            
+                                <div class="row">
+                                    <div class="col-md-6">
+					<i class="icon-home icon-huge"></i>
+                                        <!--p>I would be happy to talk to you if you need my assistance in your research or whether you need bussiness administration support for your company. Though I have limited time for students but I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p-->                              
+                                    </div>
+                                    <div class="col-md-6">
+                                        <ul class="list-unstyled">
+					</br>
+					
+                                            <li>
+                                                <strong><i class="icon-phone"></i>&nbsp;&nbsp;</strong>
+                                                <span>9422208266,7030901074 </span>
+                                            </li>
+					</br>
+                                            <li>
+                                                <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
+                                                <span>bvr.researcher1@gmail.com  
+</span>
+                                            </li>
+</br>
+<li>
+                                                <strong><i class="icon-home"></i>&nbsp;&nbsp;</strong>
+                                                <span>Jay Bhadra,18-A, Mayurban Colony,Shahanoorwadi,Aurangabad.</span>
+                                            </li>
+</br>
+<li>
+                                                <strong><i class="icon-facebook"></i>&nbsp;&nbsp;</strong>
+                                                <span>https://en-gb.facebook.com/people/Balasaheb-Asaram-Sarate/100010839483511</span>
+                                            </li>
+                                            <!--li>
+                                                <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
+                                                <span><a class="__cf_email__" href="http://owwwlab.com/cdn-cgi/l/email-protection" data-cfemail="462c22292306353227282029342268232233">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></span>
+                                            </li-->
+                                            <!--li>
+                                                <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
+                                                <span><a class="__cf_email__" href="http://owwwlab.com/cdn-cgi/l/email-protection" data-cfemail="1c767873795c7b717d7570327f7371">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></span>
+                                            </li-->
+                                            <!--li>
+                                                <strong><i class="icon-skype"></i>&nbsp;&nbsp;</strong>
+                                                <span>jenniferDoe</span>
+                                            </li-->
+                                            <!--li>
+                                                <strong><i class="icon-twitter"></i>&nbsp;&nbsp;</strong>
+                                                <span>#jenniferDoe</span>
+                                            </li-->
+                                            <!--i>
+                                                <strong><i class="icon-linkedin-sign"></i>&nbsp;&nbsp;</strong>
+                                                <span><a href="#">us.linkedin.com/in/jdoe</a></span>
+                                            </li-->
+                                        </ul>    
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--div class="pagecontents">
+                        <div class="section contact-office" data-stellar-background-ratio="0.1">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <!-- Add Google Maps -->
+
+                                        <!--div id="googleMap" style="; width:100%;height:200px;">
+                                            <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4093644910854!2d73.8318509498971!3d18.510394187353107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf8c27fb2473%3A0x42789dc147cb050a!2sSwaroop+Complex!5e0!3m2!1sen!2sin!4v1489577931719" width="100%" height="350px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                        </div>
+                                        <script>
+                                            function myMap() {
+                                                var mapProp = {
+                                                    center: new google.maps.LatLng(51.508742, -0.120850),
+                                                    zoom: 5,
+                                                };
+                                                var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+                                            }
+                                        </script>
+
+                                </div>
+                            </div>
+                        </div-->
+                        <!--div class="section color-1">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-4 text-center hidden-xs hidden-sm">
+                                        <i class="icon-search icon-huge"></i>
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h2 class="title">At My Work</h2>
+                                        <p>You can find me at my Work located at Stanford University Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>I am at my office every day from 7:00 until 10:00 am, but you may consider a call to fix an appointment.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section contact-lab" data-stellar-background-ratio="0.1">
+                            <div class="section-container">
+                                <div class="row">
+                                    
+                                    <div class="col-md-8">
+                                        <h2 class="title">At My Lab</h2>
+                                        <p>You can find me at my office located at Stanford University Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>I am at my office every day from 7:00 until 10:00 am, but you may consider a call to fix an appointment.</p>
+                                    </div>
+                                    <div class="col-md-4 text-center hidden-xs hidden-sm">
+                                        <i class="icon-superscript icon-huge"></i>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div-->
+                    </div>
+                    
+                </div>
+                
+                <div id="overlay"></div>
+            
+            </div>
+        </div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45653136-1', 'owwwlab.com');
+  ga('send', 'pageview');
+
+</script>
+    </body>
+
+
+</html>
